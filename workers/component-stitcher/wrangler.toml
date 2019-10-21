@@ -1,0 +1,6 @@
+account_id = "295f50bb5cbfa94af25bb11d0b5366ff"
+name = "component-stitcher"
+type = "webpack"
+route = "forest.jplhomer.org/*"
+workers_dev = false
+zone_id = "60764385b03c6340d488891268f2ee6b"
